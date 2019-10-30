@@ -5,7 +5,7 @@ Data Management: Automatic Fetching System
 Automatization process.
 
 1. Executable Python script for invoking an executable .sh file.
-2. Retrieve data with the whole tree structure from you URL
+2. Retrieve data with the whole tree structure from your URL
 3. Upload retrieved data every morning via R-Clone to Google Drive
 
 ## Note:
